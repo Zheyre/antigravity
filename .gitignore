@@ -1,0 +1,19 @@
+# History files
+.Rhistory
+.RData
+.Ruserdata
+
+# Example code in working directory
+.Rapp.history
+
+# User-specific files
+.Rproj.user/
+
+# Quarto execution artifacts
+.quarto/
+*_files/
+*_cache/
+
+# OS generated files
+.DS_Store
+Thumbs.db
